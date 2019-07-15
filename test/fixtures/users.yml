@@ -7,3 +7,7 @@ one:
 two:
   name: MyString
   email: MyString
+
+sam:
+  name: "Samuel"
+  email: "samuel@sam.com"
